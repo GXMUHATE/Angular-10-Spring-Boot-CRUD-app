@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-frontend';
-  content = 'Mais um conteudo';
+  content = 'Mais um conteudo de Graçane Muhate';
 }

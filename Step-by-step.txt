@@ -1,0 +1,10 @@
+1. Create Spring Boot Project
+2. Creating JPA Entity + Repository
+3. Creating List Employees REST API
+4. Creating Angular App
+5. Angular App Overview
+6. Add Bootstrap in Angular App
+7. Create TypeScript class for Employee
+8. Create Angular List Employee Component
+9. Connecting Angular with List Employee REST API
+10. Configure Routing in Angular App
